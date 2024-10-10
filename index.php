@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php
-    echo('oooooooooooo\n')
-    echo('oooooooooooo\n')
-    echo('oooooooooooo\n')
-    echo('oooooooooooo\n')
-    echo('oooooooooooo\n')
-    echo('oooooooooooo\n')
+    echo('oooooooooooo<br>');
+    echo('o          o<br>');
+    echo('o  #    #  o<br>');
+    echo('oooooooooooo<br>');
+    echo('oooooooooooo<br>');
+    echo('oooooooooooo<br>');
 ?>
